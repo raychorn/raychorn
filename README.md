@@ -1,11 +1,13 @@
-# <h2> Ray C Horn</h2>
+<img src="https://github.com/raychorn/raychorn/blob/main/images/header-2020-12-04_8-02-09.png?raw=true" style="background-color: white">
+
+# <h2> Ray C Horn - Senior Software Engineer</h2>
 
 ### Full Stack Developer
 
 | ![Python](https://github.com/raychorn/raychorn/blob/main/images/python-logo-2020-12-04_5-55-14.png?raw=true) | ![Go](https://github.com/raychorn/raychorn/blob/main/images/golang-logo-2020-12-04_6-06-50.png?raw=true) | ![Rust](https://github.com/raychorn/raychorn/blob/main/images/rust-logo-2020-12-04_6-09-56.png?raw=true) | ![Node.js](https://github.com/raychorn/raychorn/blob/main/images/node-js-logo-2020-12-04_6-12-28.png?raw=true) |
 | :----------: | :----------: | :----------: | :----------: |
-| ![Django](https://github.com/raychorn/raychorn/blob/main/images/python-django-logo-2020-12-04_6-18-19.png?raw=true) | ![Python+jQuery](https://github.com/raychorn/raychorn/blob/main/images/python-web-tech-2020-12-04_6-28-58.png?raw=true) | ![SQLAlchemy](https://github.com/raychorn/raychorn/blob/main/images/sql-alchemy-logo-2020-12-04_6-37-21.png?raw=true) | ![MongoDB](https://github.com/raychorn/raychorn/blob/main/images/mongodb-logo-2020-12-04_6-47-25.png?raw=true) |
-| ![Angular v11](https://github.com/raychorn/raychorn/blob/main/images/angular-logo-2020-12-04_6-16-13.png?raw=true) | ![TypeScript](https://github.com/raychorn/raychorn/blob/main/images/ts-logo-2020-12-04_6-21-19.png?raw=true) | ![HTML+JS+CSS](https://github.com/raychorn/raychorn/blob/main/images/html-js-css-logo-2020-12-04_6-26-38.png?raw=true) | ![AJAX](https://github.com/raychorn/raychorn/blob/main/images/ajax-logo-2020-12-04_6-31-14.png?raw=true) |
+| ![Django](https://github.com/raychorn/raychorn/blob/main/images/python-django-logo-2020-12-04_6-18-19.png?raw=true) | ![Python+jQuery](https://github.com/raychorn/raychorn/blob/main/images/python-web-tech-2020-12-04_6-28-59.png?raw=true) | ![SQLAlchemy](https://github.com/raychorn/raychorn/blob/main/images/sql-alchemy-logo-2020-12-04_6-37-21.png?raw=true) | ![MongoDB](https://github.com/raychorn/raychorn/blob/main/images/mongodb-logo-2020-12-04_6-47-26.png?raw=true) |
+| ![Angular v11](https://github.com/raychorn/raychorn/blob/main/images/angular-logo-2020-12-04_6-16-13.png?raw=true) | ![TypeScript](https://github.com/raychorn/raychorn/blob/main/images/ts-logo-2020-12-04_6-21-19.png?raw=true) | ![HTML+JS+CSS](https://github.com/raychorn/raychorn/blob/main/images/html-js-css-logo-2020-12-04_6-26-39.png?raw=true) | ![AJAX](https://github.com/raychorn/raychorn/blob/main/images/ajax-logo-2020-12-04_6-31-14.png?raw=true) |
 | ![JSON](https://github.com/raychorn/raychorn/blob/main/images/json-2020-12-04_6-33-21.png?raw=true) | ![WASM](https://github.com/raychorn/raychorn/blob/main/images/wasm-logo-2020-12-04_6-51-40.png?raw=true) | ![SQlite](https://github.com/raychorn/raychorn/blob/main/images/sqlite-logo-2020-12-04_6-39-21.png?raw=true) | ![MySQL + Postgres](https://github.com/raychorn/raychorn/blob/main/images/mysql-postgres-logo-2020-12-04_6-42-00.png?raw=true) |
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -83,5 +85,4 @@ and the end-points.
 
 
 <hr>
-
 
