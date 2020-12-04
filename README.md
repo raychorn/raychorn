@@ -1,4 +1,4 @@
-<img src="https://github.com/raychorn/raychorn/blob/main/images/header-2020-12-04_8-02-09.png?raw=true" style="background-color: white">
+<img src="https://github.com/raychorn/raychorn/blob/main/images/header-short-2020-12-04_8-02-09.png?raw=true" style="background-color: white">
 
 # <h2> Ray C Horn - Senior Software Engineer</h2>
 
