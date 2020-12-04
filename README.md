@@ -2,7 +2,7 @@
 
 ### Full Stack Developer
 
-![Python](https://github.com/raychorn/raychorn/images/python-logo-2020-12-04_5-55-14.png?raw=true)
+![Python](https://github.com/raychorn/raychorn/blob/main/images/python-logo-2020-12-04_5-55-14.png?raw=true)
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
