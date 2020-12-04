@@ -44,7 +44,6 @@ and the end-points.
 | <a href="https://vyperlogix.com/" target="_blank"><img alt="Vyper Logix Corp" src="https://img.shields.io/badge/Angular%20v11-Sample%20Site-blue?style=flat-square&logo=angular"></a> | <a href="https://console.firebase.google.com/" target="_blank"><img alt="Google Firebase" src="https://img.shields.io/badge/Google%20Cloud%20Platform-Firebase-blue?style=flat-square&logo=firebase"></a> |
 | :----------: | :----------: |
 
-<iframe width="900" height="400" src="https://vyperlogix.com/"></iframe>
 
 <hr>
 
