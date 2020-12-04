@@ -7,7 +7,11 @@
 [Dynamic Pluggable Microservices Framework.](https://github.com/raychorn/microservices-framework)
 
 ```
-Dynamic Pluggable Microservices Framework. Designed to quickly publish Python Modules in the form of a dynamic RESTful Interface that supports GET, POST, PUT and DELETE. This is functional programming meets REST meets 100% pluggability using minimal code.
+Dynamic Pluggable Microservices Framework.
+Designed to quickly publish Python Modules in the form of a dynamic
+RESTful Interface that supports GET, POST, PUT and DELETE. 
+This is functional programming meets REST meets 
+100% pluggability using minimal code.
 ```
 
 <hr>
@@ -15,8 +19,10 @@ Dynamic Pluggable Microservices Framework. Designed to quickly publish Python Mo
 [Self Deploying Microservice Architecture for Python 3.x](https://gist.github.com/0bd8a79aab8c32b068a790b8cebe76df)
 
 ```
-Plug-in Python Module and either Introspect or use Metadata in the Module to define the specific functions to expose via REST.
-Each function becomes a separate and distinct REST Web Service via a Smart APIView subclass that encapsulates the Security Model 
+Plug-in Python Module and either Introspect or use Metadata 
+in the Module to define the specific functions to expose via REST.
+Each function becomes a separate and distinct REST Web Service 
+via a Smart APIView subclass that encapsulates the Security Model 
 and the end-points.
 ```
 
