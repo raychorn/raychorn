@@ -3,21 +3,25 @@
 ### Full Stack Developer
 
 <table>
-    <tr>
+    <tr style="text-align:center">
         <td>
+
 ![Python](https://github.com/raychorn/raychorn/blob/main/images/python-logo-2020-12-04_5-55-14.png?raw=true)
         </td>
         <td>
+
 ![Go](https://github.com/raychorn/raychorn/blob/main/images/golang-logo-2020-12-04_6-06-50.png?raw=true)
         </td>
         <td>
+
 ![Rust](https://github.com/raychorn/raychorn/blob/main/images/rust-logo-2020-12-04_6-09-56.png?raw=true)
         </td>
         <td>
+
 ![Node.js](https://github.com/raychorn/raychorn/blob/main/images/node-js-logo-2020-12-04_6-12-28.png?raw=true)
         </td>
     </tr>
-    <tr>
+    <tr style="text-align:center">
         <td>
 ![Django](https://github.com/raychorn/raychorn/blob/main/images/python-django-logo-2020-12-04_6-18-19.png?raw=true)
         </td>
@@ -31,7 +35,7 @@
 ![MongoDB](https://github.com/raychorn/raychorn/blob/main/images/mongodb-logo-2020-12-04_6-47-25.png?raw=true)
         </td>
     </tr>
-    <tr>
+    <tr style="text-align:center">
         <td>
 ![Angular v11](https://github.com/raychorn/raychorn/blob/main/images/angular-logo-2020-12-04_6-16-13.png?raw=true)
         </td>
@@ -45,7 +49,7 @@
 ![AJAX](https://github.com/raychorn/raychorn/blob/main/images/ajax-logo-2020-12-04_6-31-14.png?raw=true)
         </td>
     </tr>
-    <tr>
+    <tr style="text-align:center">
         <td>
 ![JSON](https://github.com/raychorn/raychorn/blob/main/images/json-2020-12-04_6-33-21.png?raw=true)
         </td>
@@ -59,7 +63,7 @@
 ![MySQL + Postgres](https://github.com/raychorn/raychorn/blob/main/images/mysql-postgres-logo-2020-12-04_6-42-00.png?raw=true)
         </td>
     </tr>
-    <tr>
+    <tr style="text-align:center">
         <td>
         </td>
         <td>
