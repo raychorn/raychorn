@@ -49,21 +49,29 @@ and the end-points.
 
 <br>
 
-
+<table>
+    <tr>
+        <td>
+        <a href="https://www.linkedin.com/in/raychorn/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ray%20C%20Horn-blue?style=flat-square&logo=linkedin"></a>
+        </td>
+        <td>
+        <a href="https://github.com/sponsors/raychorn" target="_blank"><img alt="Sponsor Me" src="https://img.shields.io/badge/Sponsor%20Me-Support%20my%20work!!!-blue?style=flat-square&logo=github"></a>
+        </td>
+        <td>
+        <a href="mailto:raychorn@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-raychorn@gmail.com-blue?style=flat-square&logo=gmail"></a>
+        </td>
+        <td>
+        <a href="https://raychorn.slack.com" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/Message%20Me-via%20Slack-blue?style=flat-square&logo=slack"></a>
+        </td>
+    </tr>
+</table>
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/raychorn/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ray%20C%20Horn-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="https://github.com/sponsors/raychorn" target="_blank"><img alt="Sponsor Me" src="https://img.shields.io/badge/Sponsor%20Me-Support%20my%20work!!!-blue?style=flat-square&logo=github"></a>
-
-<a href="mailto:raychorn@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-raychorn@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-<a href="https://raychorn.slack.com" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/Message%20Me-via%20Slack-blue?style=flat-square&logo=slack"></a>
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=raychorn.raychorn)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 </p>
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=raychorn.raychorn)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
 <hr>
