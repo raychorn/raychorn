@@ -23,7 +23,7 @@ RESTful Interface that supports GET, POST, PUT and DELETE.
 This is functional programming meets REST meets 
 100% pluggability using minimal code.
 ```
-
+[Read more...](https://raychorn.medium.com/dynamic-pluggable-microservice-framework-83ddc4b3d26e)
 <hr>
 
 [Self Deploying Microservice Architecture for Python 3.x](https://gist.github.com/0bd8a79aab8c32b068a790b8cebe76df)
