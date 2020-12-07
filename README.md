@@ -1,6 +1,6 @@
 <img src="https://github.com/raychorn/raychorn/blob/main/images/header-short-2020-12-04_8-02-09.png?raw=true" style="background-color: white">
 
-# <h2> Ray C Horn - Senior Software Engineer</h2>
+# <h2> Ray C Horn - Senior Software Engineer - [raychorn.github.io](https://raychorn.github.io/)</h2>
 
 ### Full Stack Developer
 
@@ -14,7 +14,7 @@
 
 <h3> Sample Projects </h3>
 
-[Dynamic Pluggable Microservices Framework.](https://github.com/raychorn/microservices-framework)
+[Dynamic Pluggable Microservices Framework](https://github.com/raychorn/microservices-framework)
 
 ```
 Dynamic Pluggable Microservices Framework.
